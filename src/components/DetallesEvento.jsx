@@ -96,11 +96,11 @@ className="mx-auto max-w-lg"
       <p className="font-serif text-2xl">Código de vestimenta</p>
 
       <p className="mt-2 text-sm tracking-widest text-[#cbb9a3]">
-            ELEGANTE · TOTAL BLACK
+            FORMAL · TOTAL BLACK
       </p>
 
       <p className="mt-3 text-sm leading-6 text-[#e8dcc5]/80">
-        El código de vestimenta es elegante y el color elegido para la noche es el negro.
+        El código de vestimenta es formal y el color elegido para la noche es el negro.
       </p>
 
     </div>
